@@ -16,11 +16,6 @@ sections:
   label: About
   create: none
   match: "*"
-- type: directory
-  path: content/contact
-  label: Contact
-  create: none
-  match: "*"
 - type: document
   path: config.yaml
   label: Configuration
