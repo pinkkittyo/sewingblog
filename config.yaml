@@ -35,19 +35,19 @@ params:
     - link: plugins/search/fuse.min.js
     - link: plugins/search/mark.js
     - link: plugins/search/search.js
-  logo: images/logo-pinkkittyo.png
+  logo: images/logo.png
   home: Home
   layout: "1"
-  description: "Rachel's sewing blog"
+  description: Rachel's sewing blog
   preloader: true
   search: false
   author: Rachel Benischke
   author_image: images/aboutme.png
   bio: I'm learning to sew and having a lot of fun with it
-  mobile: ""
-  email: ""
-  address: ""
-  contact_form_action: ""
+  mobile: ''
+  email: ''
+  address: ''
+  contact_form_action: ''
   google_analytics_id: Your ID
   copyright: Copyright &copy; 2021 Rachel Benischke
   instafeed:
