@@ -35,14 +35,14 @@ params:
     - link: plugins/search/fuse.min.js
     - link: plugins/search/mark.js
     - link: plugins/search/search.js
-  logo: images/logo.png
+  logo: images/logo-pinkkittyo.png
   home: Home
   layout: "1"
   description: "Rachel's sewing blog"
   preloader: true
   search: false
   author: Rachel Benischke
-  author_image: images/logo.png
+  author_image: images/aboutme.png
   bio: I'm learning to sew and having a lot of fun with it
   mobile: ""
   email: ""
